@@ -2,10 +2,10 @@
 
 var generateBtn = document.getElementById("generate");
 var passLength = 0;
-var lowerCase = "abcdefghijklmnopqrstuvwxyz" //.split("") 
-var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"//.split("")
-var numbers = "1234567890"//.split("")
-var special = "~!@#$%^&*()_-"//.split("")
+var lowerCase = "abcdefghijklmnopqrstuvwxyz" 
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+var numbers = "1234567890"
+var special = "~!@#$%^&*()_-"
 
 var characters = ""
 var password = ""
@@ -21,7 +21,6 @@ while (passLength < 8 || passLength > 128) {
   if (confirm ("Do you want lowercase characters?")) {
     characters.push(lowerCase);
     console.log(characters)
-
 }
   
   if (confirm ("Do you want uppercase characters")){
