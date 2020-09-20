@@ -7,8 +7,8 @@ var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"//.split("")
 var numbers = "1234567890"//.split("")
 var special = "~!@#$%^&*()_-"//.split("")
 
-var characters = []
-var password = []
+var characters = ""
+var password = ""
 
 
 alert ("Select Password Criteria");
