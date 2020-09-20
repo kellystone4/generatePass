@@ -20,22 +20,20 @@ while (passLength < 8 || passLength > 128) {
 }
 
   if (confirm ("Do you want lowercase characters?")) {
-    characters.push(lowerCase);
-    console.log(characters)
+    characters += lowerCase;
 }
   
   if (confirm ("Do you want uppercase characters")){
-    characters.push(upperCase);
+    characters += upperCase;
 }
   
   if (confirm ("Do you want numeric characters?")) {
-  characters.push(numbers);
+    characters += numbers;
 }
 
   if (confirm ("Do you want special characters?")) {
-  characters.push(special);
+    characters += (special);
 }
-
 
 // Generate Password  
 
