@@ -19,7 +19,7 @@
 <br>
 
 
-Through this assignment, I utilized my developing knowledge of Javascript and Googling skills. Beginning this assignment wasn't easy since I was unsure of how to go about it, but once I broke down what the assignment was asking for through pseudo code, it started to come together. Throughout this project I learned so much about Javascript-alerts, prompts, loops, console uses, ect. It is so cool to learn how many interactive things Javascript can do to enhance your web page!
+Through this assignment, I utilized my developing knowledge of Javascript and Googling skills. Beginning this assignment wasn't easy since I was unsure of how to go about it, but once I broke down what the assignment was asking for through pseudo code, it started to come together. One of my goals throughout this project was to make my code as clean as possible, to be user friendly and easy to read code! Throughout this project I learned so much about Javascript-alerts, prompts, loops, console uses, ect. It is so cool to learn how many interactive things Javascript can do to enhance your web page!
 
 <br>
 
@@ -55,20 +55,20 @@ Within this project, I included:
 
 - Figuring out how to even start! 
 
-    -  I solved this issue by breaking every part of the criteria in pseudo code, which helped me to organize my thoughts and start my code.
+    -  I solved this issue by breaking every part of the criteria in pseudo code, which helped me to organize my thoughts and start my code. Below, is a picture of my notes and pseudo code before I got started and cleaned up my area.
 
+  <br>
+
+    ![Image](code.png)
+
+   <br>
 - Figuring out how to get the Password Generator Button to give output from the coding for the password generator.
 
     - To fix this, I realized all I needed was to add a simple 'float' to my image. This would make the text wrap around the image. Then, I added a margin to add space between my image and text. Below is an image of how it looked before and after I wrapped the text around the image (along with several other changes).
     
-    <br>
 
-    ![Image](https://i.ibb.co/89Vc0xQ/screen-shot-2020-09-15-at-9-38-32-pm.png)
 
     <br>
-
-    ![Image](https://i.ibb.co/KNKzsdV/Screen-Shot-2020-09-16-at-9-31-16-PM.png)
-<br>
 
 <br>
 
