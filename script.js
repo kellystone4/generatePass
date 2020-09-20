@@ -12,11 +12,12 @@ var password = ""
 
 // Password Criteria 
 
-alert ("Select Password Criteria");
-  
+
 while (passLength < 8 || passLength > 128) {
   passLength = prompt("Choose a password length between 8-128 characters")
 }
+
+alert ("Select Password Criteria (You must select at least one)");
 
 if (confirm ("Do you want lowercase characters?")) {
     characters += lowerCase;
