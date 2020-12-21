@@ -101,4 +101,4 @@ Within this project, I included:
 <br>
 
 ## Deployed Link:
-- [Link to Portfolio Site](https://kellystone4.github.io/generatePass/)
+- [Link to Password Generator](https://kellystone4.github.io/generatePass/)
