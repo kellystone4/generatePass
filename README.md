@@ -14,7 +14,7 @@
 </u>
 </center>
 
-### Our goal for this assignment was create a random password generator using Javascript. Throughout the week, we've learned about 
+### Our goal for this assignment was create a random password generator using Javascript.  
 
 <br>
 
